@@ -1,0 +1,11 @@
+path,name,size,modificationTime
+dbfs:/FileStore/data/cmdata/customer.csv,customer.csv,14294,1689008659000
+dbfs:/FileStore/data/cmdata/employee.csv,employee.csv,1741,1689008659000
+dbfs:/FileStore/data/cmdata/office.csv,office.csv,605,1689008658000
+dbfs:/FileStore/data/cmdata/order.csv,order.csv,24595,1689008658000
+dbfs:/FileStore/data/cmdata/orderdetail.csv,orderdetail.csv,79571,1689008657000
+dbfs:/FileStore/data/cmdata/orderdetail_delta.csv,orderdetail_delta.csv,194,1689008658000
+dbfs:/FileStore/data/cmdata/orderdetail_new.csv,orderdetail_new.csv,287,1689008658000
+dbfs:/FileStore/data/cmdata/payment_1.csv,payment_1.csv,5271,1689008658000
+dbfs:/FileStore/data/cmdata/payment_2.csv,payment_2.csv,3812,1689008658000
+dbfs:/FileStore/data/cmdata/product.csv,product.csv,29313,1689008657000
